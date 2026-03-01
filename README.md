@@ -1,4 +1,4 @@
-# CUDA Algorithms: Memory Choices and Optimization Benefits
+# CUDA Algorithms
 
 This project implements common CUDA algorithms and validates each GPU result against a C++ CPU reference.
 
